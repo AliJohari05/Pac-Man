@@ -1,0 +1,37 @@
+# ninja log v6
+2	190	7574566904976836	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	bcc8a85428ba6cfd
+392	483	7737501137299024	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	41300aea383d768a
+2	190	7574566904976836	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	bcc8a85428ba6cfd
+301	392	7737501136380687	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	e29078de66a7c136
+9	95583	7574568907484262	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	63e6e888a9b49edd
+24	300	7737501132813535	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	98b03836af6eb8b8
+766	883	7737501141311610	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	9c2b4977cd31ab53
+9	95583	7574568907484262	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	63e6e888a9b49edd
+24	300	7737501132813535	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	98b03836af6eb8b8
+301	392	7737501136380687	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	e29078de66a7c136
+392	483	7737501137299024	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	41300aea383d768a
+483	578	7737501138234449	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	c7f6f1e7e7bd9209
+483	578	7737501138234449	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	c7f6f1e7e7bd9209
+578	671	7737501139175918	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	5d02637d7eccb10
+578	671	7737501139175918	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	5d02637d7eccb10
+671	765	7737501140128010	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	7ae8edd53f0f5bdf
+671	765	7737501140128010	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	7ae8edd53f0f5bdf
+766	883	7737501141311610	CMakeFiles/raylib-populate-complete	9c2b4977cd31ab53
+766	883	7737501141311610	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	9c2b4977cd31ab53
+766	883	7737501141311610	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	9c2b4977cd31ab53
+18	248	7737502068184934	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	98b03836af6eb8b8
+18	248	7737502068184934	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	98b03836af6eb8b8
+249	340	7737502071325123	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	e29078de66a7c136
+249	340	7737502071325123	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	e29078de66a7c136
+341	431	7737502072234039	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	41300aea383d768a
+341	431	7737502072234039	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	41300aea383d768a
+432	525	7737502073177254	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	c7f6f1e7e7bd9209
+432	525	7737502073177254	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	c7f6f1e7e7bd9209
+525	609	7737502074016734	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	5d02637d7eccb10
+525	609	7737502074016734	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	5d02637d7eccb10
+610	705	7737502074966689	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	7ae8edd53f0f5bdf
+610	705	7737502074966689	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	7ae8edd53f0f5bdf
+705	836	7737502076267450	CMakeFiles/raylib-populate-complete	9c2b4977cd31ab53
+705	836	7737502076267450	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	9c2b4977cd31ab53
+705	836	7737502076267450	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	9c2b4977cd31ab53
+705	836	7737502076267450	C:/Users/alite/pack man project/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	9c2b4977cd31ab53
