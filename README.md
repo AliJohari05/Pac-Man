@@ -7,14 +7,30 @@ This project is an implementation of the classic Pac-Man game using the C progra
 The Pac-Man game implemented in this project includes the following features:
 
 1. **Menu and Game Controls**: The game provides a menu with options to start the game, view high scores, and exit the game. The player can control Pac-Man's movement using the arrow keys or WASD keys.
-   ![Menu](images/menu%20pac%20man.png)
+
+
+    ![Menu](images/menu%20pac%20man.png)
+
+   
 2. **Maze and Ghosts**: The game features a maze-like level design with various pellets and power-ups scattered throughout. The player must navigate Pac-Man through the maze while avoiding the ghosts that roam the level.
 
-3. **Scoring and Lives**: The player earns points by collecting pellets and power-ups. The game also keeps track of the player's high scores and the number of lives remaining.
 
-4. **Difficulty Levels**: The game offers three difficulty levels: Easy, Normal, and Hard. The difficulty affects factors such as the speed of the ghosts, the number of pellets, and the number of lives.
+   ![Game Screen](images/geme%20screan%20pac%20man.png)
 
-5. **Visual Effects**: The game includes various visual effects, such as animated sprites for Pac-Man and the ghosts, as well as sound effects for player actions and events.
+
+   ![Game Over Screen](images/geme%20over%20screan%20pac%20man.png)
+
+   
+   
+4. **Scoring and Lives**: The player earns points by collecting pellets and power-ups. The game also keeps track of the player's high scores and the number of lives remaining.
+
+5. **Difficulty Levels**: The game offers three difficulty levels: Easy, Normal, and Hard. The difficulty affects factors such as the speed of the ghosts, the number of pellets, and the number of lives.
+
+
+   ![Menu Level](images/menu%20level%20pac%20man.png)
+
+   
+6. **Visual Effects**: The game includes various visual effects, such as animated sprites for Pac-Man and the ghosts, as well as sound effects for player actions and events.
 
 ## Getting Started
 To run the Pac-Man game, you will need to have a C compiler installed on your system. The project can be compiled and executed using the following steps:
