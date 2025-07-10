@@ -7,7 +7,7 @@ This project is an implementation of the classic Pac-Man game using the C progra
 The Pac-Man game implemented in this project includes the following features:
 
 1. **Menu and Game Controls**: The game provides a menu with options to start the game, view high scores, and exit the game. The player can control Pac-Man's movement using the arrow keys or WASD keys.
-
+   ![Menu](images/menu%20pac%20man.png)
 2. **Maze and Ghosts**: The game features a maze-like level design with various pellets and power-ups scattered throughout. The player must navigate Pac-Man through the maze while avoiding the ghosts that roam the level.
 
 3. **Scoring and Lives**: The player earns points by collecting pellets and power-ups. The game also keeps track of the player's high scores and the number of lives remaining.
