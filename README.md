@@ -18,6 +18,8 @@ The Pac-Man game implemented in this project includes the following features:
    ![Game Screen](images/geme%20screan%20pac%20man.png)
 
 
+
+
    ![Game Over Screen](images/geme%20over%20screan%20pac%20man.png)
 
    
@@ -29,8 +31,14 @@ The Pac-Man game implemented in this project includes the following features:
 
    ![Menu Level](images/menu%20level%20pac%20man.png)
 
+
+
+
+   ![Menu Level](images/score%20table%20pac%20man.png)
+
+
    
-6. **Visual Effects**: The game includes various visual effects, such as animated sprites for Pac-Man and the ghosts, as well as sound effects for player actions and events.
+7. **Visual Effects**: The game includes various visual effects, such as animated sprites for Pac-Man and the ghosts, as well as sound effects for player actions and events.
 
 ## Getting Started
 To run the Pac-Man game, you will need to have a C compiler installed on your system. The project can be compiled and executed using the following steps:
