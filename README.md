@@ -34,8 +34,7 @@ The Pac-Man game implemented in this project includes the following features:
 
 
 
-   ![Score Table](images/score%20table%20pac%20man.png)
-
+   ![Score Table](images/score%20table%20pac%20ma.png)
 
    
 7. **Visual Effects**: The game includes various visual effects, such as animated sprites for Pac-Man and the ghosts, as well as sound effects for player actions and events.
