@@ -34,7 +34,7 @@ The Pac-Man game implemented in this project includes the following features:
 
 
 
-   ![Menu Level](images/score%20table%20pac%20man.png)
+   ![Score Table](images/score%20table%20pac%20man.png)
 
 
    
